@@ -156,3 +156,11 @@ class DishesController {
 }
 
 module.exports = DishesController;
+
+// {
+//   "title": "Prato",
+//   "description": "Teste",
+//   "category": "Sobremesa",
+//   "price": "R$10,00",
+//   "ingredients": [{"name":"Arroz"}, {"name":"Feijão"}]
+// }
